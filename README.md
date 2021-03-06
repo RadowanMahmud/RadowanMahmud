@@ -1,6 +1,6 @@
 ### Hi there, I am Radowan Mahmud Redoy 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RadowanMahmud&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RadowanMahmud&show_icons=true&theme=dracula&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadowanMahmud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
