@@ -2,7 +2,7 @@
   
 ## Hi there, I am Radowan Mahmud Redoy 👋
   
-> Studying Bachelor of Science in Software Engineering,
+> Studied Bachelor of Science in Software Engineering,
   
 > [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
 
